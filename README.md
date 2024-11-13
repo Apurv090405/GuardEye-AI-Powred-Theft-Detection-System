@@ -1,4 +1,4 @@
-# Improving Security in Public Spaces: Hybrid Deep Learning for Theft Detection in Surveillance
+# GuardEye: AI Powred Theft Detection System
 
 **A research project focusing on enhancing security in public spaces using a hybrid deep learning approach for real-time theft detection and surveillance.**
 

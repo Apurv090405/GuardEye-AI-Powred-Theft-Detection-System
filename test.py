@@ -9,7 +9,7 @@ from dataset import CrimeDataset  # Create this for loading your dataset
 # Parameters
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 batch_size = 8
-num_classes = 8
+num_classes = 5
 
 # Dataset and DataLoader
 test_dataset = CrimeDataset(train=False)

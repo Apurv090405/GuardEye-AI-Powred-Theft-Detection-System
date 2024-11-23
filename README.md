@@ -8,7 +8,6 @@
 ![CUDA](https://img.shields.io/badge/CUDA-v11.0-76b900)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue)
 ![Numpy](https://img.shields.io/badge/Numpy-v1.21%2B-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit%2Dlearn-v0.24-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.x-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-v0.11.x-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-blue)
@@ -38,7 +37,10 @@ In this project, we propose **GuardEye**, a hybrid deep learning model leveragin
 ---
 
 ## Research Paper
-You can find the detailed research paper - [Research Paper](#research-paper)
+
+You can find the detailed research paper [here](paper/Two_Coloum_IEEE_Improving%20Security%20in%20Public%20Spaces%20Hybrid%20Deep.pdf).
+
+
 ---
 
 ## Features

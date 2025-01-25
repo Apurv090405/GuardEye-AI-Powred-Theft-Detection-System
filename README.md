@@ -114,11 +114,11 @@ python test.py
 ### Classification Report
 Below is an example of the classification report generated after testing the model:
 
-| Class      | Precision | Recall | F1-Score |
-|------------|-----------|--------|----------|
-| Theft      | 0.93      | 0.92   | 0.93     |
-| Assault    | 0.89      | 0.88   | 0.88     |
-| Normal     | 0.95      | 0.94   | 0.94     |
+![image](https://github.com/user-attachments/assets/4fef9102-232f-44bc-a0ed-a1565b2abd1d)
+![image](https://github.com/user-attachments/assets/1a322fa6-fe81-4ed9-92b9-cb8978eac9ac)
+
+### confusion matrix
+![image](https://github.com/user-attachments/assets/d77be7bd-d074-4282-acf9-ac179157d588)
 
 
 ### ROC Curve

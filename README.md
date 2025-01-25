@@ -129,6 +129,9 @@ The ROC curve demonstrates the performance of the classifier across various thre
 ### Accuracy
 The overall accuracy of the model is: 92.5%
 
+### Pridiction
+![Shoplifting](https://github.com/user-attachments/assets/48bdb4fe-c9c3-4930-a040-f4bb65078af0)
+
 --- 
 
 ## Installation
